@@ -1,0 +1,12 @@
+System information has been gathered. Here’s the summary:
+02/20/2024 12:52:25 CST
+Current User: chant
+Current Working Directory: /c/Users/chant/system_info
+
+System Usage (top output):
+
+
+Disk Usage (df output):
+
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  300G  126G  174G  42% /
